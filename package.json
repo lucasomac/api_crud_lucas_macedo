@@ -1,0 +1,30 @@
+{
+  "name": "api_crud_lucas_macedo",
+  "version": "1.0.0",
+  "description": "Api para disciplina de e-Business",
+  "main": "index.js",
+  "scripts": {
+	"start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasomac/api_crus_lucas_macedo.git"
+  },
+  "keywords": [
+    "api",
+    "crud"
+  ],
+  "author": "Lucas de Oliveira Macedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasomac/api_crus_lucas_macedo/issues"
+  },
+  "homepage": "https://github.com/lucasomac/api_crus_lucas_macedo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
